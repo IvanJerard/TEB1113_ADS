@@ -9,5 +9,6 @@
 | 25/10/16   | Circular Linked List  | Task 01                                    |
 | 25/10/23   | Stack                 | Task 01                                    |
 | 25/11/06   | Queue                 | Task 01                                    |
+| 25/11/13   | Binary Tree           | Task 01                                    |
 
 
